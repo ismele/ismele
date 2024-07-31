@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate in Cybersecurity, networking, the Cloud, and maybe some AI shortly.
 - 🤔 I’m looking for help with networking learnings!
 - 💬 Ask me about any doubt 
-- 📫 How to reach me: use my LinkedIn message profile or shoot me to isaelmc@yahoo.com
+- 📫 How to reach me: use my LinkedIn message profile or shoot me to cerstudi3s@gmail.com
 - ⚡ Fun fact: ..........
 -->
 
