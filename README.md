@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/isael_mc/
 [linkedin]: https://linkedin.com/in/isaelmelendezcastro
 
-![](https://komarev.com/ghpvc/?username=ismele)
+![](https://komarev.com/ghpvc/?username=ismele&color=green)
